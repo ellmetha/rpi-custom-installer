@@ -1,7 +1,7 @@
 rpi-custom-installer
 ====================
 
-A script for building a Raspbian system by using the debootstrap utility.
+A script for building a Raspbian system by using the debootstrap tool.
 
 
 How to use it
